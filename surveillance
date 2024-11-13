@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mock Surveillance Assessment - DataGuard Innovations</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        h1 {
+            font-size: 1.8em;
+            text-align: center;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #0056b3;
+        }
+        h2 {
+            font-size: 1.4em;
+            margin-top: 20px;
+            border-left: 4px solid #0056b3;
+            padding-left: 10px;
+        }
+        p, ul {
+            margin-bottom: 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .section-content {
+            padding: 10px;
+            background-color: #f8f9fb;
+            border-left: 4px solid #0056b3;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Mock Surveillance Assessment: DataGuard Innovations</h1>
+    <p><strong>Date:</strong> November 12, 2024</p>
+    <p><strong>Auditor:</strong> Alex Johnson, Compliance Consultant</p>
+    <p><strong>Objective:</strong> A mock surveillance assessment simulating the process of a real ISO 27001 audit to help DataGuard Innovations prepare and identify potential areas of improvement.</p>
+
+    <h2>1. Scope and Objectives of the Mock Assessment</h2>
+    <div class="section-content">
+        <p><strong>Scope:</strong> This mock assessment covers data protection, user access control, network monitoring, and incident response readiness. The goal is to provide DataGuard Innovations with insights on current security gaps and guide improvements for their upcoming ISO 27001 surveillance audit.</p>
+    </div>
+
+    <h2>2. Approach</h2>
+    <div class="section-content">
+        <p>This mock assessment followed a simulation of typical surveillance activities, including:</p>
+        <ul>
+            <li>Document Review: Examined policies, procedures, and past audit findings.</li>
+            <li>Site Walkthrough: Simulated physical checks of data storage areas and access points.</li>
+            <li>Interviews: Conducted mock interviews with staff to gauge awareness and training efficacy.</li>
+            <li>System Checks: Simulated spot checks of access logs, network configurations, and incident response capabilities.</li>
+        </ul>
+    </div>
+
+    <h2>3. Key Observations</h2>
+    <div class="section-content">
+        <p>The mock assessment identified several areas where DataGuard Innovations could strengthen its ISO 27001 compliance:</p>
+        <ul>
+            <li><strong>Access Controls:</strong> While access policies are documented, some administrative accounts lack multifactor authentication (MFA), which is a key compliance factor.</li>
+            <li><strong>Network Security:</strong> Mock scans revealed that firewall rules were not fully updated, potentially leaving certain network segments vulnerable.</li>
+            <li><strong>Physical Security:</strong> Badge access logs were not reviewed consistently, which could hinder the timely identification of unauthorized access attempts.</li>
+            <li><strong>Incident Response:</strong> The incident response plan is comprehensive but lacks recent simulation drills to ensure staff are familiar with their roles in case of an incident.</li>
+        </ul>
+    </div>
+
+    <h2>4. Recommendations</h2>
+    <div class="section-content">
+        <ul>
+            <li><strong>Implement MFA on all administrative accounts:</strong> Strengthening access controls will reduce unauthorized access risks.</li>
+            <li><strong>Update firewall rules:</strong> Ensure that firewall configurations reflect the latest security policies and network structure.</li>
+            <li><strong>Regular review of badge access logs:</strong> A regular review process can help detect any irregular access patterns and improve physical security monitoring.</li>
+            <li><strong>Conduct Incident Response Drills:</strong> Simulate various security scenarios to test the readiness of all team members and improve incident response effectiveness.</li>
+        </ul>
+    </div>
+
+    <h2>5. Next Steps</h2>
+    <div class="section-content">
+        <p>This mock assessment has highlighted critical areas for improvement. By addressing the recommendations above, DataGuard Innovations can enhance its readiness for the actual ISO 27001 surveillance audit. Regular self-assessments and adherence to action plans will further strengthen the company’s security posture.</p>
+    </div>
+</div>
+
+</body>
+</html>
